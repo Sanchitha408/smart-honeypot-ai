@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+model/model.pkl
+logs/cowrie.json
+.coverage
