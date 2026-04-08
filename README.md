@@ -1,3 +1,4 @@
+
 # 🔥 Smart Honeypot Analyzer with AI
 
 ## 🚀 Overview
@@ -74,3 +75,6 @@ Risk Level: HIGH
 
 Sanchitha S
 Cybersecurity Enthusiast | GSoC Aspirant
+# smart-honeypot-ai
+AI-powered honeypot attack analyzer with threat detection and profiling
+1fa50fec9bbb012cb9f981ca5f04fe3410b6dd5b
